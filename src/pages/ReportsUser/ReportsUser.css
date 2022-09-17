@@ -1,0 +1,15 @@
+.reports__user__container {
+    flex: 4;
+    width: 100%;
+}
+.reports__user {
+    width: 90%;
+    margin: 2px auto;
+}
+
+@media screen and (max-width: 900px) {
+    .reports__user {
+        width: 95%;
+        margin: 2px auto;
+    }
+}

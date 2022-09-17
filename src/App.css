@@ -1,0 +1,16 @@
+.container{
+  display: flex;
+  margin-top: 10px;
+}
+
+
+.link{
+  text-decoration: none;
+  color: inherit;
+}
+.app__right {
+  width: 100%;
+}
+.app__left {
+
+}
